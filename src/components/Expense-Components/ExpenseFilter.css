@@ -1,0 +1,14 @@
+.expense-filter{
+    text-align: end;
+    padding: 0 0.4rem;
+}
+.expense-filter label{
+    color: white;
+    padding: 0 0.5rem;
+}
+.expense-filter select{
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+}
